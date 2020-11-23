@@ -484,10 +484,10 @@ mark,
 }
 #vet-img{
   max-width: 100%;
-  height: 80%;
+  height: 100%;
 }
 #lux-img{
-  height: 100%;
+  height: 80%;
 }
 
 
@@ -10184,7 +10184,7 @@ header.masthead .masthead-heading {
   position: absolute;
   width: 100%;
   height: 100%;
-  background: rgba(254, 209, 54, 0.9);
+  background: #a9a9a9;
   align-items: center;
   justify-content: center;
   opacity: 0;
