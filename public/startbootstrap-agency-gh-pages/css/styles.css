@@ -1713,7 +1713,7 @@ pre code {
 .table-primary td,
 .table-primary thead th,
 .table-primary tbody + tbody {
-  border-color: #fee796;
+  border-color: #a9a9a9;
 }
 
 .table-hover .table-primary:hover {
@@ -1793,7 +1793,7 @@ pre code {
 .table-warning td,
 .table-warning thead th,
 .table-warning tbody + tbody {
-  border-color: #fee796;
+  border-color: #a9a9a9;
 }
 
 .table-hover .table-warning:hover {
