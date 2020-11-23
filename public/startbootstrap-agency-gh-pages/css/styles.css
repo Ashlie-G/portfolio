@@ -1707,7 +1707,7 @@ pre code {
 .table-primary,
 .table-primary > th,
 .table-primary > td {
-  background-color: #fff2c7;
+  background-color: #a9a9a9;
 }
 .table-primary th,
 .table-primary td,
@@ -1717,11 +1717,11 @@ pre code {
 }
 
 .table-hover .table-primary:hover {
-  background-color: #ffecae;
+  background-color: #a9a9a9;
 }
 .table-hover .table-primary:hover > td,
 .table-hover .table-primary:hover > th {
-  background-color: #ffecae;
+  background-color: #a9a9a9;
 }
 
 .table-secondary,
@@ -1787,7 +1787,7 @@ pre code {
 .table-warning,
 .table-warning > th,
 .table-warning > td {
-  background-color: #fff2c7;
+  background-color: #a9a9a9;
 }
 .table-warning th,
 .table-warning td,
@@ -1797,11 +1797,11 @@ pre code {
 }
 
 .table-hover .table-warning:hover {
-  background-color: #ffecae;
+  background-color: #a9a9a9;
 }
 .table-hover .table-warning:hover > td,
 .table-hover .table-warning:hover > th {
-  background-color: #ffecae;
+  background-color: #a9a9a9;
 }
 
 .table-danger,
@@ -4833,10 +4833,10 @@ a.badge-dark:focus, a.badge-dark.focus {
 .alert-primary {
   color: #846d1c;
   background-color: #fff6d7;
-  border-color: #fff2c7;
+  border-color: #a9a9a9;
 }
 .alert-primary hr {
-  border-top-color: #ffecae;
+  border-top-color: #a9a9a9;
 }
 .alert-primary .alert-link {
   color: #5a4a13;
@@ -4881,10 +4881,10 @@ a.badge-dark:focus, a.badge-dark.focus {
 .alert-warning {
   color: #846d1c;
   background-color: #fff6d7;
-  border-color: #fff2c7;
+  border-color: #a9a9a9;
 }
 .alert-warning hr {
-  border-top-color: #ffecae;
+  border-top-color: #a9a9a9;
 }
 .alert-warning .alert-link {
   color: #5a4a13;
@@ -5184,11 +5184,11 @@ a.badge-dark:focus, a.badge-dark.focus {
 
 .list-group-item-primary {
   color: #846d1c;
-  background-color: #fff2c7;
+  background-color: #a9a9a9;
 }
 .list-group-item-primary.list-group-item-action:hover, .list-group-item-primary.list-group-item-action:focus {
   color: #846d1c;
-  background-color: #ffecae;
+  background-color: #a9a9a9;
 }
 .list-group-item-primary.list-group-item-action.active {
   color: #fff;
@@ -5240,11 +5240,11 @@ a.badge-dark:focus, a.badge-dark.focus {
 
 .list-group-item-warning {
   color: #846d1c;
-  background-color: #fff2c7;
+  background-color: #a9a9a9;
 }
 .list-group-item-warning.list-group-item-action:hover, .list-group-item-warning.list-group-item-action:focus {
   color: #846d1c;
-  background-color: #ffecae;
+  background-color: #a9a9a9;
 }
 .list-group-item-warning.list-group-item-action.active {
   color: #fff;
